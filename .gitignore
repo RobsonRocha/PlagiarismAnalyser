@@ -1,0 +1,5 @@
+#Ignore folder Data
+.ipynb_checkpoints
+*.csv
+.idea
+
